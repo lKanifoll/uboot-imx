@@ -1,0 +1,6 @@
+MX6UL_SONAR_IP_CONTROL BOARD
+M:	Sergey Kochnev <kanifolina@gmail.com>
+S:	Maintained
+F:	board/freescale/mx6ul_sonar_ip_control/
+F:	include/configs/mx6ul_sonar_ip_control.h
+F:	configs/mx6ul_sonar_ip_control_defconfig
